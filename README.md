@@ -1,4 +1,5 @@
 # This is my Chrysalis Key Map for the Keyboardio Atreus.
+It is loosely based on the default Atreus keymap, but adapted with features from the [Minidox Layout by Khitsule](https://github.com/qmk/qmk_firmware/blob/master/keyboards/minidox/keymaps/khitsule/readme.md). My addition to the layout is to add several [mirrorboard](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/) layers, allowing the left hand to pick up slack of the right hand when it's tied up with the mouse. The below layer images were produced by the Chrysalis app, a GUI keymap editor developed by the folks at Keyboardio.  
 ## Layer 0: Normal
 Layers 0, 1, and 2 are fairly typical of what you see in other Atreus layouts. Letters, symbols, digits, and navigation. 
 ![Layer 0](images/layer-0.png) 
