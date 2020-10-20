@@ -9,6 +9,6 @@ Layers 0, 1, and 2 are fairly typical of what you see in other Atreus layouts. L
 ## Layer 3: Adjust-Mouse-Movement
 "Adjust" means raise and lower pressed at the same time. This is a mouse movement layer allowing mouse movement, scroll wheel, "warping", and mouse clicks. 
 ![Layer 3](images/layer-3.png)
-## Layer 4: Mirror Left Normal
+## Layer 4: Mirror-Left-Normal
 This layer is one of several geared towards making left-hand-only typing easier, for when the right hand is busy with the mouse.
 ![Layer 4](images/layer-4.png)
