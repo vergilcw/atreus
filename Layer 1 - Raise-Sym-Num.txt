@@ -1,4 +1,4 @@
-{{
+{
   "keymap": [
     {"keyCode": 2078, "label": "!"},
     {"keyCode": 2079, "label": "@"},
@@ -44,7 +44,7 @@
       "verbose": "Next track"
     },
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-    {"keyCode": 17409, "label": "1", "extraLabel": "LockTo"},
+    {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 2085, "label": "*"},
     {"keyCode": 89, "label": "1", "extraLabel": "Numpad"},

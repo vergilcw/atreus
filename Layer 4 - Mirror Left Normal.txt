@@ -29,7 +29,7 @@
     {"keyCode": 54, "label": ","},
     {"keyCode": 16, "label": "M"},
     {"keyCode": 17, "label": "N"},
-    {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
+    {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 17, "label": "N"},
     {"keyCode": 16, "label": "M"},

@@ -1,4 +1,4 @@
-{
+{{
   "keymap": [
     {"keyCode": 20, "label": "Q"},
     {"keyCode": 26, "label": "W"},
@@ -29,7 +29,7 @@
     {"keyCode": 6, "label": "C"},
     {"keyCode": 25, "label": "V"},
     {"keyCode": 5, "label": "B"},
-    {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
+    {"keyCode": 76, "label": "Del"},
     {"keyCode": 226, "label": "LAlt", "verbose": "Left Alt"},
     {"keyCode": 17, "label": "N"},
     {"keyCode": 16, "label": "M"},
@@ -41,7 +41,7 @@
     {"keyCode": 43, "label": "Tab"},
     {"keyCode": 17454, "label": "4", "extraLabel": "ShiftTo"},
     {"keyCode": 51772, "label": "Bksp", "extraLabel": "L#2/"},
-    {"keyCode": 49501, "label": "Del", "extraLabel": "SHIFT/"},
+    {"keyCode": 225, "label": "LShift", "verbose": "Left Shift"},
     {"keyCode": 224, "label": "LCtrl", "verbose": "Left Control"},
     {"keyCode": 51518, "label": "Space", "extraLabel": "L#1/"},
     {"keyCode": 227, "label": "LWin", "verbose": "Left Win"},
