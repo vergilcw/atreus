@@ -1,4 +1,4 @@
-{
+{{
   "keymap": [
     {"keyCode": 2078, "label": "!"},
     {"keyCode": 2079, "label": "@"},
@@ -55,7 +55,7 @@
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-    {"keyCode": 17453, "label": "3", "extraLabel": "ShiftTo"},
+    {"keyCode": 52028, "label": "Bksp", "extraLabel": "L#3/"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
