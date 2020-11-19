@@ -1,4 +1,4 @@
-{
+{{
   "keymap": [
     {"keyCode": 20576, "label": "End", "extraLabel": "M. Warp"},
     {
