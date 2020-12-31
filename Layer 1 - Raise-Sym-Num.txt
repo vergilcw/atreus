@@ -1,38 +1,29 @@
 {
   "keymap": [
-
     {"keyCode": 2078, "label": "!"},
     {"keyCode": 2079, "label": "@"},
     {"keyCode": 2080, "label": "#"},
     {"keyCode": 2081, "label": "$"},
     {"keyCode": 2082, "label": "%"},
-
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-
-    {"keyCode": 75, "label": "PgUp", "verbose": "Page Up"},
-    {"keyCode": 64, "label": "F7"},
-    {"keyCode": 65, "label": "F8"},
-    {"keyCode": 66, "label": "F9"},
-    {"keyCode": 67, "label": "F10"},
-
-
+    {"keyCode": 87, "label": "+", "extraLabel": "Numpad"},
+    {"keyCode": 36, "label": "7", "extraLabel": "&"},
+    {"keyCode": 37, "label": "8", "extraLabel": "*"},
+    {"keyCode": 38, "label": "9", "extraLabel": "("},
+    {"keyCode": 70, "label": "PrnScr", "verbose": "Print Screen"},
     {"keyCode": 53, "label": "`"},
     {"keyCode": 2101, "label": "~"},
     {"keyCode": 2097, "label": "|"},
     {"keyCode": 2084, "label": "&"},
     {"keyCode": 2083, "label": "^"},
-
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-
-    {"keyCode": 78, "label": "PgDn", "verbose": "Page Down"},
-    {"keyCode": 61, "label": "F4"},
-    {"keyCode": 62, "label": "F5"},
-    {"keyCode": 63, "label": "F6"},
-    {"keyCode": 68, "label": "F11"},
-
-
+    {"keyCode": 86, "label": "-", "extraLabel": "Numpad"},
+    {"keyCode": 33, "label": "4", "extraLabel": "$"},
+    {"keyCode": 34, "label": "5", "extraLabel": "%"},
+    {"keyCode": 35, "label": "6", "extraLabel": "^"},
+    {"keyCode": 46, "label": "="},
     {"keyCode": 49, "label": "\\"},
     {
       "keyCode": 22710,
@@ -53,40 +44,24 @@
       "verbose": "Next track"
     },
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
-
-    {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
-    {"keyCode": 58, "label": "F1"},
-    {"keyCode": 59, "label": "F2"},
-    {"keyCode": 60, "label": "F3"},
-    {"keyCode": 69, "label": "F12"},
-    
-
+    {"keyCode": 2085, "label": "*"},
+    {"keyCode": 30, "label": "1", "extraLabel": "!"},
+    {"keyCode": 31, "label": "2", "extraLabel": "@"},
+    {"keyCode": 32, "label": "3", "extraLabel": "#"},
+    {"keyCode": 56, "label": "/"},
     {"keyCode": 17492, "label": "0", "extraLabel": "MoveTo"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
     {"keyCode": 52028, "label": "Bksp", "extraLabel": "L#3/"},
-
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
-
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
-    {
-      "keyCode": 23664,
-      "label": "Brt-",
-      "extraLabel": "Media",
-      "verbose": "Brightness down"
-    },
-    {
-      "keyCode": 23663,
-      "label": "Brt+",
-      "extraLabel": "Media",
-      "verbose": "Brightness up"
-    },
+    {"keyCode": 55, "label": "."},
+    {"keyCode": 39, "label": "0", "extraLabel": ")"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"}
   ],
   "palette": []
