@@ -1,4 +1,4 @@
-{{
+{
   "keymap": [
     {"keyCode": 20, "label": "Q"},
     {"keyCode": 26, "label": "W"},

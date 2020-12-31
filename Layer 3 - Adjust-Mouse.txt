@@ -1,4 +1,4 @@
-{{
+{
   "keymap": [
     {"keyCode": 20576, "label": "End", "extraLabel": "M. Warp"},
     {
@@ -50,7 +50,7 @@
       "extraLabel": "M. Warp",
       "verbose": "South-West"
     },
-    {"keyCode": 20545, "label": "Left", "extraLabel": "M. Btn"},
+    {"keyCode": 20546, "label": "Right", "extraLabel": "M. Btn"},
     {"keyCode": 20548, "label": "Middle", "extraLabel": "M. Btn"},
     {"keyCode": 20545, "label": "Left", "extraLabel": "M. Btn"},
     {
