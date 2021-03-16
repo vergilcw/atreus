@@ -39,7 +39,7 @@
     {"keyCode": 41, "label": "Esc"},
     {"keyCode": 226, "label": "LAlt", "verbose": "Left Alt"},
     {"keyCode": 43, "label": "Tab"},
-    {"keyCode": 17454, "label": "4", "extraLabel": "ShiftTo"},
+    {"keyCode": 17456, "label": "6", "extraLabel": "ShiftTo"},
     {"keyCode": 51772, "label": "Bksp", "extraLabel": "L#2/"},
     {"keyCode": 225, "label": "LShift", "verbose": "Left Shift"},
     {"keyCode": 224, "label": "LCtrl", "verbose": "Left Control"},
